@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ProjectImc</string>
+    <string name="nome_mulher">Mulher</string>
+    <string name="nome_homem">Homem</string>
+    <string name="altura">Altura</string>
+    <string name="peso">Peso</string>
+    <string name="idade">Idade</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">resultado</string>
+    <string name="re_calcular">Re-calcular</string>
+
+    <string name="error">Erro</string>
+
+    <string name="title_peso_baixo">Peso Baixo</string>
+    <string name="description_peso_baixo">Esta com o peso baixo para a sua altura</string>
+    <string name="title_peso_normal">Peso Normal</string>
+    <string name="description_peso_normal">Esta com o peso ideal para a sua altura</string>
+    <string name="title_sobrepeso">Sobrepeso</string>
+    <string name="description_sobrepeso">Esta com o peso Acima para a sua altura</string>
+    <string name="title_obessidade">Obessidade</string>
+    <string name="description_obesidade">Esta com Obessidade para a sua altura</string>
+</resources>
